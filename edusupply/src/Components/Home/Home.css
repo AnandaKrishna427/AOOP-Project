@@ -1,0 +1,14 @@
+.home-content {
+  padding-top: 100px; /* enough to clear fixed navbar */
+  text-align: center;
+}
+
+.hero-section {
+  padding: 60px 20px;
+  background-color: #f5f5f5;
+}
+
+.about-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
